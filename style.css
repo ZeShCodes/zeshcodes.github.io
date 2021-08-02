@@ -1576,7 +1576,16 @@ footer
     width: 100px;
     height: 100px;
     padding: 15px;
-    } 
+    }
+    .edu .box-1 p
+    {
+        font-size: 13px;
+    
+    }
+    .edu .box-2 p
+    {
+    font-size: 13px;
+    }
     .edu .box-2 p
     {
         padding-top: 0;
