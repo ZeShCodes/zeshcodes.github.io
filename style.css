@@ -1565,6 +1565,14 @@ footer
     {
         font-size: 18px;
     }
+    .edu .box-1
+    {
+        height: 80vh;
+    }
+    .edu .box-2
+    {
+        height: 80vh;
+    }
     .edu .box-1 .img 
     {
     width: 100px;
