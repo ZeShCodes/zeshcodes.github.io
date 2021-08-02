@@ -1587,12 +1587,12 @@ footer
     }
     .edu .box-1 p
     {
-        font-size: 10px;
+        font-size: 13px;
     
     }
     .edu .box-2 p
     {
-    font-size: 10px;
+    font-size: 13px;
     }
     .edu .box-2 p
     {
@@ -1600,7 +1600,7 @@ footer
     }
     .edu .container span
     {
-    font-size: 8px;
+    font-size: 10px;
     }
     /* .edu .box-2 p
     {
@@ -1657,16 +1657,16 @@ footer
     }
     .edu .box-1 p
     {
-        font-size: 13px;
+        font-size: 10px;
     
     }
     .edu .box-2 p
     {
-    font-size: 13px;
+    font-size: 1px;
     }
     .edu .container span
     {
-    font-size: 10px;
+    font-size: 8px;
     }
 
 .edu .edu-title-2::after
