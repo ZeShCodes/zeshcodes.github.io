@@ -1590,6 +1590,10 @@ footer
     {
         padding-top: 0;
     }
+    .edu .container span
+    {
+    font-size: 10px;
+    }
     /* .edu .box-2 p
     {
         font-size: 13px;
