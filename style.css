@@ -447,7 +447,6 @@ section
 .about .about-content .right p
 {
     text-align: justify;
-    color: #000;
 }
 
 .about .about-content .right a
@@ -541,7 +540,7 @@ section
     height: 150px;
     padding: 15px;
 }
- p
+ .edu .box-2 p
 {
     color: #fff;
     font-size: 16px;
