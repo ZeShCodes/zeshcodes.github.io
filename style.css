@@ -271,6 +271,9 @@ section
   border-radius: 200px;
   border: none;
 }
+.flip .back h2{
+    font-size: 20px;
+}
 .flip > .front .social-menu ul,
 .flip > .back .social-menu  ul{
   position: absolute;
@@ -293,7 +296,7 @@ section
 .flip > .front .social-menu ul li .fab,
 .flip > .back .social-menu  ul li .fab
 {
-    font-size: 30px;
+    font-size: 25px;
     transition: .6s;
     color: #fff;
     margin-top: 5px;
