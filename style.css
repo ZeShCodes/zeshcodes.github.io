@@ -262,10 +262,10 @@ section
 .flip > .back {
   display: block;
   color: white;
-  width: 400px;
+  width: 350px;
   background-size: cover !important;
   background-position: center !important;
-  height: 400px;
+  height: 350px;
   padding: 1em 2em;
   background: #1A1A1D;
   border-radius: 200px;
