@@ -268,7 +268,8 @@ section
   height: 400px;
   padding: 1em 2em;
   background: #1A1A1D;
-  border-radius: 10px;
+  border-radius: 200px;
+  border: none;
 }
 .flip > .front .social-menu ul,
 .flip > .back .social-menu  ul{
